@@ -77,6 +77,6 @@ Predicted output:
 
 ---
 
- Developed by: \[MG]
+ Developed by: SHREYAS MISHRA
 
 
